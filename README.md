@@ -4,7 +4,12 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F2E5,45:E9D9B9,100:DDBD70&height=205&section=header&text=Mohammad%20Ameen%20Hasan&fontSize=36&fontColor=493B2A&fontAlignY=38&desc=Backend%20Developer%20%7C%20Applied%20AI%20Engineering&descAlignY=60&descSize=16&descColor=66543B" width="100%" alt="Warm desert-inspired profile banner" />
 
-  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com%2Fu%2F84253541%3Fv%3D4&w=420&h=420&fit=cover&mask=circle&output=png" width="190" height="190" alt="Mohammad Ameen Hasan circular profile photo" />
+  <p>
+    <img src="https://img.shields.io/badge/BACKEND-Laravel%20%7C%20PHP-DDBD70?style=for-the-badge&labelColor=493B2A" alt="Backend engineering with Laravel and PHP" />
+    <img src="https://img.shields.io/badge/APPLIED%20AI-LLM%20Systems%20%7C%20RAG-E9D9B9?style=for-the-badge&labelColor=66543B" alt="Applied AI, LLM systems and RAG" />
+    <img src="https://img.shields.io/badge/ENGINEERING-APIs%20%7C%20Integrations-F8F2E5?style=for-the-badge&labelColor=75634B" alt="API engineering and integrations" />
+  </p>
+  <p><strong>Building useful software where reliable backend engineering meets practical AI.</strong></p>
 
   <br/>
 
