@@ -4,7 +4,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F2E5,45:E9D9B9,100:DDBD70&height=205&section=header&text=Mohammad%20Ameen%20Hasan&fontSize=36&fontColor=493B2A&fontAlignY=38&desc=Backend%20Developer%20%7C%20Applied%20AI%20Engineering&descAlignY=60&descSize=16&descColor=66543B" width="100%" alt="Warm desert-inspired profile banner" />
 
-  <img src="https://github.com/ameeno200075.png?size=400" width="190" height="190" style="border-radius: 50%; object-fit: cover; border: 5px solid #DDBD70;" alt="Mohammad Ameen Hasan profile photo" />
+  <img src="https://raw.githubusercontent.com/ameeno200075/ameeno200075/main/assets/profile-avatar.svg" width="190" height="190" alt="Mohammad Ameen Hasan circular profile photo" />
 
   <br/>
 
