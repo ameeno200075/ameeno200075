@@ -4,7 +4,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F2E5,45:E9D9B9,100:DDBD70&height=205&section=header&text=Mohammad%20Ameen%20Hasan&fontSize=36&fontColor=493B2A&fontAlignY=38&desc=Backend%20Developer%20%7C%20Applied%20AI%20Engineering&descAlignY=60&descSize=16&descColor=66543B" width="100%" alt="Warm desert-inspired profile banner" />
 
-  <img src="https://github.com/ameeno200075.png" width="132" alt="Mohammad Ameen Hasan profile photo" />
+  <img src="https://github.com/ameeno200075.png?size=400" width="190" height="190" style="border-radius: 50%; object-fit: cover; border: 5px solid #DDBD70;" alt="Mohammad Ameen Hasan profile photo" />
 
   <br/>
 
@@ -50,39 +50,27 @@ My current focus is **PHP/Laravel backend development** and **Applied AI enginee
 
 ## Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 🩺 [Lumen Health AI Assistant](https://github.com/ameeno200075/lumen-health-ai-assistant)
 
-An AI-assisted clinic appointment application built with Laravel, React, TypeScript, Inertia.js, and the Laravel AI SDK. Supports doctor discovery, availability checks, appointment booking, and reminders through controlled application tools.
+An AI-assisted clinic appointment application built with Laravel, React, TypeScript, Inertia.js, and the Laravel AI SDK. It supports doctor discovery, availability checks, appointment booking, and reminders through controlled application tools.
 
-**Stack:** Laravel · React · TypeScript · AI tool calling
+**Tech:** Laravel · React · TypeScript · Laravel AI SDK · Tool Calling
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### 💡 [AI Idea Management](https://github.com/ameeno200075/Ai-idea)
 
-A Laravel application for organizing ideas and using a generative AI assistant to summarize ideas, assess strengths and risks, and suggest next steps.
+A Laravel application for organizing ideas and using a generative AI assistant to summarize ideas, assess strengths and risks, and suggest practical next steps.
 
-**Stack:** PHP · Laravel · Gemini API
+**Tech:** PHP · Laravel · Gemini API
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+---
 
 ### ⚙️ [Dynamic Laravel Dashboard](https://github.com/ameeno200075/dynamic-laravel-dashboard)
 
 A Laravel-based administrative dashboard and CMS with authentication, email OTP verification, admin authorization, content management, and automated tests.
 
-**Stack:** Laravel · PHP · MySQL · Pest
-
-    </td>
-  </tr>
-</table>
+**Tech:** Laravel · PHP · MySQL · Pest
 
 ## GitHub at a Glance
 
